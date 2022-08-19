@@ -11,4 +11,3 @@ oferecimento.
 Apresentar o tema Aprendizado por Reforço, definições
 matemáticas, práticas de programação e resolução de projetos.
 
-Repository for TT03 class from UNICAMP
